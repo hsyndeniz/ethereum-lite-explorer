@@ -16,8 +16,15 @@
 		{
 			"uri": "plugin://aleth.io/eth-lite?v=4.2.0",
 			"config": {
-                "ethSymbol": "ENTER",
+        "ethSymbol": "ENTER",
 				"nodeUrl": "https://api.entercoin.net"
+			},
+			"translations": {
+				"en-US": {
+					"dashboardView.title": "EnterCoin Blockchain Explorer",
+					"dashboardView.description": "Light weight EnterCoin blockchain explorer.",
+					"dashboardView.toolbar.alethio.label": "Alethio website"
+				}
 			}
 		}
 	],
